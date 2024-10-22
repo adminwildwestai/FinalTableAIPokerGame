@@ -26,7 +26,6 @@ To play **Final Table - Texas Hold'em AI Poker Game**, your PC must meet the fol
 ## Features
 - **Play against notorious outlaws** including Jesse James, Billy the Kid, and Doc Holliday.
 - **1,000 free game credits** to get started.
-- **Pay-as-you-go model** at just 99 cents per game — no monthly minimums.
 - Engage in lively banter with **Outlaw Poker-Bots** and receive expert advice using **Tokens**.
 
 ## Buying More Credits
