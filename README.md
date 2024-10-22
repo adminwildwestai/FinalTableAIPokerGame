@@ -28,9 +28,6 @@ To play **Final Table - Texas Hold'em AI Poker Game**, your PC must meet the fol
 - **1,000 free game credits** to get started.
 - Engage in lively banter with **Outlaw Poker-Bots** and receive expert advice using **Tokens**.
 
-## Buying More Credits
-To purchase additional game credits, visit [Wild-West.AI](https://www.wild-west.ai).
-
 ## Support
 If you run into any issues or have questions, please open an issue in this repository or visit [Wild-West.AI](https://www.wild-west.ai).
 
